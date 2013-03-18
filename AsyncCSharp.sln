@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncCSharp", "AsyncCSharp.csproj", "{F8018320-5F62-484F-B6D5-8898BA2B8F7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncCSharp.Tests", "..\AsyncCSharp.Tests\AsyncCSharp.Tests.csproj", "{901A0768-DF72-4E83-919A-A530379AA655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8018320-5F62-484F-B6D5-8898BA2B8F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8018320-5F62-484F-B6D5-8898BA2B8F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8018320-5F62-484F-B6D5-8898BA2B8F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8018320-5F62-484F-B6D5-8898BA2B8F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901A0768-DF72-4E83-919A-A530379AA655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901A0768-DF72-4E83-919A-A530379AA655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901A0768-DF72-4E83-919A-A530379AA655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901A0768-DF72-4E83-919A-A530379AA655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
